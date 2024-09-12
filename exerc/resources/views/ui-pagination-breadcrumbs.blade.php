@@ -140,7 +140,7 @@
           <ul class="menu-inner py-1">
             <!-- Dashboard -->
             <li class="menu-item">
-              <a href="index.blade.php" class="menu-link">
+              <a href="/" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-home-circle"></i>
                 <div data-i18n="Analytics">Dashboard</div>
               </a>
@@ -326,7 +326,7 @@
                   </a>
                 </li>
                 <li class="menu-item active">
-                  <a href="ui-pagination-breadcrumbs.blade.php" class="menu-link">
+                  <a href="/paginacao" class="menu-link">
                     <div data-i18n="Pagination &amp; Breadcrumbs">Pagination &amp; Breadcrumbs</div>
                   </a>
                 </li>

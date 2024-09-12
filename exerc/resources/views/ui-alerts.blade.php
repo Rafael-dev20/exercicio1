@@ -71,7 +71,7 @@
 
         <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
           <div class="app-brand demo">
-            <a href="index.blade.php" class="app-brand-link">
+            <a href="/" class="app-brand-link">
               <span class="app-brand-logo demo">
                 <svg
                   width="25"
@@ -140,7 +140,7 @@
           <ul class="menu-inner py-1">
             <!-- Dashboard -->
             <li class="menu-item">
-              <a href="index.blade.php" class="menu-link">
+              <a href="/" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-home-circle"></i>
                 <div data-i18n="Analytics">Dashboard</div>
               </a>
@@ -215,7 +215,7 @@
               </a>
               <ul class="menu-sub">
                 <li class="menu-item">
-                  <a href="auth-login-basic.blade.php" class="menu-link" target="_blank">
+                  <a href="/login" class="menu-link" target="_blank">
                     <div data-i18n="Basic">Login</div>
                   </a>
                 </li>
@@ -253,7 +253,7 @@
             <li class="menu-header small text-uppercase"><span class="menu-header-text">Components</span></li>
             <!-- Cards -->
             <li class="menu-item">
-              <a href="cards-basic.blade.php" class="menu-link">
+              <a href="/cartoes" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-collection"></i>
                 <div data-i18n="Basic">Cards</div>
               </a>
@@ -271,7 +271,7 @@
                   </a>
                 </li>
                 <li class="menu-item active">
-                  <a href="ui-alerts.blade.php" class="menu-link">
+                  <a href="/alertas" class="menu-link">
                     <div data-i18n="Alerts">Alerts</div>
                   </a>
                 </li>
@@ -326,7 +326,7 @@
                   </a>
                 </li>
                 <li class="menu-item">
-                  <a href="ui-pagination-breadcrumbs.blade.php" class="menu-link">
+                  <a href="/paginacao" class="menu-link">
                     <div data-i18n="Pagination &amp; Breadcrumbs">Pagination &amp; Breadcrumbs</div>
                   </a>
                 </li>
